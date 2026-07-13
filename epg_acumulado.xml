@@ -1,399 +1,135 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="miEPG v3.6" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="ES| M.Estrenos HEVC">
-    <display-name>ES| M.Estrenos HEVC SD</display-name>
-    <display-name>ES| M.Estrenos HEVC HD</display-name>
-    <display-name>ES| M.Estrenos HEVC 4K</display-name>
-    <display-name>ES| M.Estrenos HEVC Full HD</display-name>
-    <display-name>ES| M.Estrenos HEVC UHD</display-name>
-    <display-name>ES| M.Estrenos HEVC HEVC</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Estrenos.png" />
   </channel>
   <channel id="ES| M.Estrenos FHD">
-    <display-name>ES| M.Estrenos FHD SD</display-name>
-    <display-name>ES| M.Estrenos FHD HD</display-name>
-    <display-name>ES| M.Estrenos FHD 4K</display-name>
-    <display-name>ES| M.Estrenos FHD Full HD</display-name>
-    <display-name>ES| M.Estrenos FHD UHD</display-name>
-    <display-name>ES| M.Estrenos FHD HEVC</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Estrenos.png" />
   </channel>
   <channel id="ES| M.ORIGINALES HEVC">
-    <display-name>ES| M.ORIGINALES HEVC SD</display-name>
-    <display-name>ES| M.ORIGINALES HEVC HD</display-name>
-    <display-name>ES| M.ORIGINALES HEVC 4K</display-name>
-    <display-name>ES| M.ORIGINALES HEVC Full HD</display-name>
-    <display-name>ES| M.ORIGINALES HEVC UHD</display-name>
-    <display-name>ES| M.ORIGINALES HEVC HEVC</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Originales.png" />
   </channel>
   <channel id="ES| M.ORIGINALES FHD">
-    <display-name>ES| M.ORIGINALES FHD SD</display-name>
-    <display-name>ES| M.ORIGINALES FHD HD</display-name>
-    <display-name>ES| M.ORIGINALES FHD 4K</display-name>
-    <display-name>ES| M.ORIGINALES FHD Full HD</display-name>
-    <display-name>ES| M.ORIGINALES FHD UHD</display-name>
-    <display-name>ES| M.ORIGINALES FHD HEVC</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Originales.png" />
   </channel>
   <channel id="ES| M.CLASICOS FHD">
-    <display-name>ES| M.CLASICOS FHD SD</display-name>
-    <display-name>ES| M.CLASICOS FHD HD</display-name>
-    <display-name>ES| M.CLASICOS FHD 4K</display-name>
-    <display-name>ES| M.CLASICOS FHD Full HD</display-name>
-    <display-name>ES| M.CLASICOS FHD UHD</display-name>
-    <display-name>ES| M.CLASICOS FHD HEVC</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Cl%C3%A1sicos.png" />
   </channel>
   <channel id="ES| M.ACCION HEVC">
-    <display-name>ES| M.ACCION HEVC SD</display-name>
-    <display-name>ES| M.ACCION HEVC HD</display-name>
-    <display-name>ES| M.ACCION HEVC 4K</display-name>
-    <display-name>ES| M.ACCION HEVC Full HD</display-name>
-    <display-name>ES| M.ACCION HEVC UHD</display-name>
-    <display-name>ES| M.ACCION HEVC HEVC</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Acci%C3%B3n.png" />
   </channel>
   <channel id="ES| M.ACCION FHD">
-    <display-name>ES| M.ACCION FHD SD</display-name>
-    <display-name>ES| M.ACCION FHD HD</display-name>
-    <display-name>ES| M.ACCION FHD 4K</display-name>
-    <display-name>ES| M.ACCION FHD Full HD</display-name>
-    <display-name>ES| M.ACCION FHD UHD</display-name>
-    <display-name>ES| M.ACCION FHD HEVC</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Acci%C3%B3n.png" />
   </channel>
   <channel id="ES| M.COMEDIA HEVC">
-    <display-name>ES| M.COMEDIA HEVC SD</display-name>
-    <display-name>ES| M.COMEDIA HEVC HD</display-name>
-    <display-name>ES| M.COMEDIA HEVC 4K</display-name>
-    <display-name>ES| M.COMEDIA HEVC Full HD</display-name>
-    <display-name>ES| M.COMEDIA HEVC UHD</display-name>
-    <display-name>ES| M.COMEDIA HEVC HEVC</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Comedia.png" />
   </channel>
   <channel id="ES| M.COMEDIA FHD">
-    <display-name>ES| M.COMEDIA FHD SD</display-name>
-    <display-name>ES| M.COMEDIA FHD HD</display-name>
-    <display-name>ES| M.COMEDIA FHD 4K</display-name>
-    <display-name>ES| M.COMEDIA FHD Full HD</display-name>
-    <display-name>ES| M.COMEDIA FHD UHD</display-name>
-    <display-name>ES| M.COMEDIA FHD HEVC</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Comedia.png" />
   </channel>
   <channel id="ES| M.DRAMA FHD">
-    <display-name>ES| M.DRAMA FHD SD</display-name>
-    <display-name>ES| M.DRAMA FHD HD</display-name>
-    <display-name>ES| M.DRAMA FHD 4K</display-name>
-    <display-name>ES| M.DRAMA FHD Full HD</display-name>
-    <display-name>ES| M.DRAMA FHD UHD</display-name>
-    <display-name>ES| M.DRAMA FHD HEVC</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Drama.png" />
   </channel>
   <channel id="ES| M.DRAMA HEVC">
-    <display-name>ES| M.DRAMA HEVC SD</display-name>
-    <display-name>ES| M.DRAMA HEVC HD</display-name>
-    <display-name>ES| M.DRAMA HEVC 4K</display-name>
-    <display-name>ES| M.DRAMA HEVC Full HD</display-name>
-    <display-name>ES| M.DRAMA HEVC UHD</display-name>
-    <display-name>ES| M.DRAMA HEVC HEVC</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Drama.png" />
   </channel>
   <channel id="ES| M.INDIE HEVC">
-    <display-name>ES| M.INDIE HEVC SD</display-name>
-    <display-name>ES| M.INDIE HEVC HD</display-name>
-    <display-name>ES| M.INDIE HEVC 4K</display-name>
-    <display-name>ES| M.INDIE HEVC Full HD</display-name>
-    <display-name>ES| M.INDIE HEVC UHD</display-name>
-    <display-name>ES| M.INDIE HEVC HEVC</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Indie.png" />
   </channel>
   <channel id="ES| M.INDIE FHD">
-    <display-name>ES| M.INDIE FHD SD</display-name>
-    <display-name>ES| M.INDIE FHD HD</display-name>
-    <display-name>ES| M.INDIE FHD 4K</display-name>
-    <display-name>ES| M.INDIE FHD Full HD</display-name>
-    <display-name>ES| M.INDIE FHD UHD</display-name>
-    <display-name>ES| M.INDIE FHD HEVC</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Indie.png" />
   </channel>
   <channel id="ES| M.CINE Ñ FHD">
-    <display-name>ES| M.CINE Ñ FHD SD</display-name>
-    <display-name>ES| M.CINE Ñ FHD HD</display-name>
-    <display-name>ES| M.CINE Ñ FHD 4K</display-name>
-    <display-name>ES| M.CINE Ñ FHD Full HD</display-name>
-    <display-name>ES| M.CINE Ñ FHD UHD</display-name>
-    <display-name>ES| M.CINE Ñ FHD HEVC</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Cine%20Espa%C3%B1ol.png" />
   </channel>
   <channel id="ES| TCM HEVC">
-    <display-name>ES| TCM HEVC SD</display-name>
-    <display-name>ES| TCM HEVC HD</display-name>
-    <display-name>ES| TCM HEVC 4K</display-name>
-    <display-name>ES| TCM HEVC Full HD</display-name>
-    <display-name>ES| TCM HEVC UHD</display-name>
-    <display-name>ES| TCM HEVC HEVC</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TCM.png" />
   </channel>
   <channel id="ES| TCM FHD">
-    <display-name>ES| TCM FHD SD</display-name>
-    <display-name>ES| TCM FHD HD</display-name>
-    <display-name>ES| TCM FHD 4K</display-name>
-    <display-name>ES| TCM FHD Full HD</display-name>
-    <display-name>ES| TCM FHD UHD</display-name>
-    <display-name>ES| TCM FHD HEVC</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TCM.png" />
   </channel>
   <channel id="ES| TCM FHD VOS">
-    <display-name>ES| TCM FHD VOS SD</display-name>
-    <display-name>ES| TCM FHD VOS HD</display-name>
-    <display-name>ES| TCM FHD VOS 4K</display-name>
-    <display-name>ES| TCM FHD VOS Full HD</display-name>
-    <display-name>ES| TCM FHD VOS UHD</display-name>
-    <display-name>ES| TCM FHD VOS HEVC</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TCM.png" />
   </channel>
   <channel id="ES| STAR CHANNEL (FOX) HEVC">
-    <display-name>ES| STAR CHANNEL (FOX) HEVC SD</display-name>
-    <display-name>ES| STAR CHANNEL (FOX) HEVC HD</display-name>
-    <display-name>ES| STAR CHANNEL (FOX) HEVC 4K</display-name>
-    <display-name>ES| STAR CHANNEL (FOX) HEVC Full HD</display-name>
-    <display-name>ES| STAR CHANNEL (FOX) HEVC UHD</display-name>
-    <display-name>ES| STAR CHANNEL (FOX) HEVC HEVC</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/STAR%20Channel.png" />
   </channel>
   <channel id="ES| STAR CHANNEL (FOX) FHD">
-    <display-name>ES| STAR CHANNEL (FOX) FHD SD</display-name>
-    <display-name>ES| STAR CHANNEL (FOX) FHD HD</display-name>
-    <display-name>ES| STAR CHANNEL (FOX) FHD 4K</display-name>
-    <display-name>ES| STAR CHANNEL (FOX) FHD Full HD</display-name>
-    <display-name>ES| STAR CHANNEL (FOX) FHD UHD</display-name>
-    <display-name>ES| STAR CHANNEL (FOX) FHD HEVC</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/STAR%20Channel.png" />
   </channel>
   <channel id="ES| AXN HEVC">
-    <display-name>ES| AXN HEVC SD</display-name>
-    <display-name>ES| AXN HEVC HD</display-name>
-    <display-name>ES| AXN HEVC 4K</display-name>
-    <display-name>ES| AXN HEVC Full HD</display-name>
-    <display-name>ES| AXN HEVC UHD</display-name>
-    <display-name>ES| AXN HEVC HEVC</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AXN.png" />
   </channel>
   <channel id="ES| AXN FHD">
-    <display-name>ES| AXN FHD SD</display-name>
-    <display-name>ES| AXN FHD HD</display-name>
-    <display-name>ES| AXN FHD 4K</display-name>
-    <display-name>ES| AXN FHD Full HD</display-name>
-    <display-name>ES| AXN FHD UHD</display-name>
-    <display-name>ES| AXN FHD HEVC</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AXN.png" />
   </channel>
   <channel id="ES| AXN VOS FHD">
-    <display-name>ES| AXN VOS FHD SD</display-name>
-    <display-name>ES| AXN VOS FHD HD</display-name>
-    <display-name>ES| AXN VOS FHD 4K</display-name>
-    <display-name>ES| AXN VOS FHD Full HD</display-name>
-    <display-name>ES| AXN VOS FHD UHD</display-name>
-    <display-name>ES| AXN VOS FHD HEVC</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AXN.png" />
   </channel>
   <channel id="ES| WARNER TV HEVC">
-    <display-name>ES| WARNER TV HEVC SD</display-name>
-    <display-name>ES| WARNER TV HEVC HD</display-name>
-    <display-name>ES| WARNER TV HEVC 4K</display-name>
-    <display-name>ES| WARNER TV HEVC Full HD</display-name>
-    <display-name>ES| WARNER TV HEVC UHD</display-name>
-    <display-name>ES| WARNER TV HEVC HEVC</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Warner%20TV.png" />
   </channel>
   <channel id="ES| WARNER TV FHD">
-    <display-name>ES| WARNER TV FHD SD</display-name>
-    <display-name>ES| WARNER TV FHD HD</display-name>
-    <display-name>ES| WARNER TV FHD 4K</display-name>
-    <display-name>ES| WARNER TV FHD Full HD</display-name>
-    <display-name>ES| WARNER TV FHD UHD</display-name>
-    <display-name>ES| WARNER TV FHD HEVC</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Warner%20TV.png" />
   </channel>
   <channel id="ES| WARNER TV FHD VOS">
-    <display-name>ES| WARNER TV FHD VOS SD</display-name>
-    <display-name>ES| WARNER TV FHD VOS HD</display-name>
-    <display-name>ES| WARNER TV FHD VOS 4K</display-name>
-    <display-name>ES| WARNER TV FHD VOS Full HD</display-name>
-    <display-name>ES| WARNER TV FHD VOS UHD</display-name>
-    <display-name>ES| WARNER TV FHD VOS HEVC</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Warner%20TV.png" />
   </channel>
   <channel id="ES| COMEDY CENTRAL HEVC">
-    <display-name>ES| COMEDY CENTRAL HEVC SD</display-name>
-    <display-name>ES| COMEDY CENTRAL HEVC HD</display-name>
-    <display-name>ES| COMEDY CENTRAL HEVC 4K</display-name>
-    <display-name>ES| COMEDY CENTRAL HEVC Full HD</display-name>
-    <display-name>ES| COMEDY CENTRAL HEVC UHD</display-name>
-    <display-name>ES| COMEDY CENTRAL HEVC HEVC</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Comedy%20Central.png" />
   </channel>
   <channel id="ES| COMEDY CENTRAL FHD">
-    <display-name>ES| COMEDY CENTRAL FHD SD</display-name>
-    <display-name>ES| COMEDY CENTRAL FHD HD</display-name>
-    <display-name>ES| COMEDY CENTRAL FHD 4K</display-name>
-    <display-name>ES| COMEDY CENTRAL FHD Full HD</display-name>
-    <display-name>ES| COMEDY CENTRAL FHD UHD</display-name>
-    <display-name>ES| COMEDY CENTRAL FHD HEVC</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Comedy%20Central.png" />
   </channel>
   <channel id="ES| CALLE 13 HEVC">
-    <display-name>ES| CALLE 13 HEVC SD</display-name>
-    <display-name>ES| CALLE 13 HEVC HD</display-name>
-    <display-name>ES| CALLE 13 HEVC 4K</display-name>
-    <display-name>ES| CALLE 13 HEVC Full HD</display-name>
-    <display-name>ES| CALLE 13 HEVC UHD</display-name>
-    <display-name>ES| CALLE 13 HEVC HEVC</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Calle%2013.png" />
   </channel>
   <channel id="ES| CALLE 13 FHD">
-    <display-name>ES| CALLE 13 FHD SD</display-name>
-    <display-name>ES| CALLE 13 FHD HD</display-name>
-    <display-name>ES| CALLE 13 FHD 4K</display-name>
-    <display-name>ES| CALLE 13 FHD Full HD</display-name>
-    <display-name>ES| CALLE 13 FHD UHD</display-name>
-    <display-name>ES| CALLE 13 FHD HEVC</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Calle%2013.png" />
   </channel>
   <channel id="ES| COSMO HEVC">
-    <display-name>ES| COSMO HEVC SD</display-name>
-    <display-name>ES| COSMO HEVC HD</display-name>
-    <display-name>ES| COSMO HEVC 4K</display-name>
-    <display-name>ES| COSMO HEVC Full HD</display-name>
-    <display-name>ES| COSMO HEVC UHD</display-name>
-    <display-name>ES| COSMO HEVC HEVC</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cosmo.png" />
   </channel>
   <channel id="ES| COSMO FHD">
-    <display-name>ES| COSMO FHD SD</display-name>
-    <display-name>ES| COSMO FHD HD</display-name>
-    <display-name>ES| COSMO FHD 4K</display-name>
-    <display-name>ES| COSMO FHD Full HD</display-name>
-    <display-name>ES| COSMO FHD UHD</display-name>
-    <display-name>ES| COSMO FHD HEVC</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cosmo.png" />
   </channel>
   <channel id="ES| SYFY HEVC">
-    <display-name>ES| SYFY HEVC SD</display-name>
-    <display-name>ES| SYFY HEVC HD</display-name>
-    <display-name>ES| SYFY HEVC 4K</display-name>
-    <display-name>ES| SYFY HEVC Full HD</display-name>
-    <display-name>ES| SYFY HEVC UHD</display-name>
-    <display-name>ES| SYFY HEVC HEVC</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/SyFy.png" />
   </channel>
   <channel id="ES| SYFY FHD">
-    <display-name>ES| SYFY FHD SD</display-name>
-    <display-name>ES| SYFY FHD HD</display-name>
-    <display-name>ES| SYFY FHD 4K</display-name>
-    <display-name>ES| SYFY FHD Full HD</display-name>
-    <display-name>ES| SYFY FHD UHD</display-name>
-    <display-name>ES| SYFY FHD HEVC</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/SyFy.png" />
   </channel>
   <channel id="ES| SYFY FHD VOS">
-    <display-name>ES| SYFY FHD VOS SD</display-name>
-    <display-name>ES| SYFY FHD VOS HD</display-name>
-    <display-name>ES| SYFY FHD VOS 4K</display-name>
-    <display-name>ES| SYFY FHD VOS Full HD</display-name>
-    <display-name>ES| SYFY FHD VOS UHD</display-name>
-    <display-name>ES| SYFY FHD VOS HEVC</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/SyFy.png" />
   </channel>
   <channel id="ES| DARK FHD">
-    <display-name>ES| DARK FHD SD</display-name>
-    <display-name>ES| DARK FHD HD</display-name>
-    <display-name>ES| DARK FHD 4K</display-name>
-    <display-name>ES| DARK FHD Full HD</display-name>
-    <display-name>ES| DARK FHD UHD</display-name>
-    <display-name>ES| DARK FHD HEVC</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DARK.png" />
   </channel>
   <channel id="ES| XTRM FHD">
-    <display-name>ES| XTRM FHD SD</display-name>
-    <display-name>ES| XTRM FHD HD</display-name>
-    <display-name>ES| XTRM FHD 4K</display-name>
-    <display-name>ES| XTRM FHD Full HD</display-name>
-    <display-name>ES| XTRM FHD UHD</display-name>
-    <display-name>ES| XTRM FHD HEVC</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/XTRM.png" />
   </channel>
   <channel id="ES| AMC FHD">
-    <display-name>ES| AMC FHD SD</display-name>
-    <display-name>ES| AMC FHD HD</display-name>
-    <display-name>ES| AMC FHD 4K</display-name>
-    <display-name>ES| AMC FHD Full HD</display-name>
-    <display-name>ES| AMC FHD UHD</display-name>
-    <display-name>ES| AMC FHD HEVC</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AMC.png" />
   </channel>
   <channel id="ES| AXN MOVIES HEVC">
-    <display-name>ES| AXN MOVIES HEVC SD</display-name>
-    <display-name>ES| AXN MOVIES HEVC HD</display-name>
-    <display-name>ES| AXN MOVIES HEVC 4K</display-name>
-    <display-name>ES| AXN MOVIES HEVC Full HD</display-name>
-    <display-name>ES| AXN MOVIES HEVC UHD</display-name>
-    <display-name>ES| AXN MOVIES HEVC HEVC</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AXN%20Movies.png" />
   </channel>
   <channel id="ES| AXN MOVIES FHD">
-    <display-name>ES| AXN MOVIES FHD SD</display-name>
-    <display-name>ES| AXN MOVIES FHD HD</display-name>
-    <display-name>ES| AXN MOVIES FHD 4K</display-name>
-    <display-name>ES| AXN MOVIES FHD Full HD</display-name>
-    <display-name>ES| AXN MOVIES FHD UHD</display-name>
-    <display-name>ES| AXN MOVIES FHD HEVC</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AXN%20Movies.png" />
   </channel>
   <channel id="ES| AXN MOVIES FHD VOS">
-    <display-name>ES| AXN MOVIES FHD VOS SD</display-name>
-    <display-name>ES| AXN MOVIES FHD VOS HD</display-name>
-    <display-name>ES| AXN MOVIES FHD VOS 4K</display-name>
-    <display-name>ES| AXN MOVIES FHD VOS Full HD</display-name>
-    <display-name>ES| AXN MOVIES FHD VOS UHD</display-name>
-    <display-name>ES| AXN MOVIES FHD VOS HEVC</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AXN%20Movies.png" />
   </channel>
   <channel id="ES| HOLLYWOOD HEVC">
-    <display-name>ES| HOLLYWOOD HEVC SD</display-name>
-    <display-name>ES| HOLLYWOOD HEVC HD</display-name>
-    <display-name>ES| HOLLYWOOD HEVC 4K</display-name>
-    <display-name>ES| HOLLYWOOD HEVC Full HD</display-name>
-    <display-name>ES| HOLLYWOOD HEVC UHD</display-name>
-    <display-name>ES| HOLLYWOOD HEVC HEVC</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Hollywood.png" />
   </channel>
   <channel id="ES| HOLLYWOOD FHD">
-    <display-name>ES| HOLLYWOOD FHD SD</display-name>
-    <display-name>ES| HOLLYWOOD FHD HD</display-name>
-    <display-name>ES| HOLLYWOOD FHD 4K</display-name>
-    <display-name>ES| HOLLYWOOD FHD Full HD</display-name>
-    <display-name>ES| HOLLYWOOD FHD UHD</display-name>
-    <display-name>ES| HOLLYWOOD FHD HEVC</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Hollywood.png" />
   </channel>
   <channel id="ES| SUNDANCE TV FHD">
-    <display-name>ES| SUNDANCE TV FHD SD</display-name>
-    <display-name>ES| SUNDANCE TV FHD HD</display-name>
-    <display-name>ES| SUNDANCE TV FHD 4K</display-name>
-    <display-name>ES| SUNDANCE TV FHD Full HD</display-name>
-    <display-name>ES| SUNDANCE TV FHD UHD</display-name>
-    <display-name>ES| SUNDANCE TV FHD HEVC</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sundance%20TV.png" />
   </channel>
   <channel id="ES| SQUIRREL DOS TV FHD">
-    <display-name>ES| SQUIRREL DOS TV FHD SD</display-name>
-    <display-name>ES| SQUIRREL DOS TV FHD HD</display-name>
-    <display-name>ES| SQUIRREL DOS TV FHD 4K</display-name>
-    <display-name>ES| SQUIRREL DOS TV FHD Full HD</display-name>
-    <display-name>ES| SQUIRREL DOS TV FHD UHD</display-name>
-    <display-name>ES| SQUIRREL DOS TV FHD HEVC</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Squirrel%20TV.png" />
   </channel>
 	<programme start="20260713073500 +0200" stop="20260713094600 +0200" channel="ES| M.Estrenos HEVC">
